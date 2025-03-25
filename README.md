@@ -6,9 +6,12 @@ Soy una desarrolladora web principiante con conocimientos básicos en HTML, CSS 
 ##
 
 <p>
-  📣 Contactame en:
+  📣 Contactame en: lanto8514@gmail.com 
   
-  <a href="[lanto8514@gmail.com](https://mail.google.com/mail/u/0/#inbox)"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  ##
+
+  📣 mis redes son:
+  
   <a href="https://www.instagram.com/anto_lunna/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/antonella-luna-4a85132bb/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
