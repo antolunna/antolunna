@@ -18,11 +18,11 @@ Soy una desarrolladora web principiante con conocimientos básicos en HTML, CSS 
 
 ##
 
- ### 🛠️ My Skills
+ ### 🛠️ Mis habilidades
 
 ##
 
-### 👉 Programming languages
+### 👉 Lenguajes de programación
 
 <p align="left"> 
   &emsp;
@@ -33,7 +33,7 @@ Soy una desarrolladora web principiante con conocimientos básicos en HTML, CSS 
 
 ##
 
-### 👉 Frontend Development
+### 👉 Desarrollo front-end
 
 <p align="left"> 
   &emsp; 
