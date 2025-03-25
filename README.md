@@ -56,7 +56,7 @@ Soy una desarrolladora web principiante con conocimientos básicos en HTML, CSS 
 
 ##
 
- ### 👉 Software & Tools
+ ### 👉 Software & Herramientas
  
 <p>
   &emsp;
