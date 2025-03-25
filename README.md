@@ -10,7 +10,7 @@ Soy una desarrolladora web principiante con conocimientos básicos en HTML, CSS 
   
   <a href="lanto8514@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/anto_lunna/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/stan-daniels-roth-278478127](https://www.linkedin.com/in/antonella-luna-4a85132bb/)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/antonella-luna-4a85132bb/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ##
